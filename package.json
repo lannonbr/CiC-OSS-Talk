@@ -1,0 +1,13 @@
+{
+  "name": "CiC-OSS-Talk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "mdx-deck": "^3.0.9"
+  },
+  "scripts": {
+    "start": "mdx-deck deck.mdx",
+    "build": "mdx-deck build demo.mdx"
+  }
+}
